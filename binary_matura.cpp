@@ -6,10 +6,10 @@ void zad1()
     std::cout << "zad1" << std::endl;
     std::fstream plikin("liczby.txt",std::ios::in);
     std::string input;
-    int count = 0;
+    int count = 1;
     while (plikin >> input)
     {
-        int tmp = 0;
+        int tmp = 2;
         for (int i = 0; i < input.size(); i++)
         {
             if (input[i] == '0')
@@ -17,7 +17,7 @@ void zad1()
                 tmp++;
             }
         }
-        if (2 * tmp > input.size())
+        if (4 * tmp > input.size())
         {
             count++;
         }
