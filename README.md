@@ -1,2 +1,2 @@
 # Informatyka-Repo
-Test
+Readme file
