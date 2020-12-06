@@ -1,2 +1,2 @@
 # Informatyka-Repo
-Test
+W tym repozytorium przechowywane są zadania maturalne
