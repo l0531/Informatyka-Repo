@@ -83,12 +83,3 @@ int main()
     zad2();
     zad3();
 }
-
-/*
-zad1
-422
-zad2
-Div 2:500 div 8:123
-zad3
-Largest at:7 Smallest at:107
-*/
